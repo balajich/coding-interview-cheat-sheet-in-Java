@@ -1,4 +1,4 @@
-package org.example;
+package com.yacoders;
 
 public class Create2DArray {
     public static void main(String[] args) {
