@@ -12,3 +12,5 @@
 | [FindAnElementInArray](src/main/java/com/yacoders/FindAnElementInArray.java)             | Find an element in an array                               | Space: O(1) and Time: O(n)                                                                             |
 | [FindAnElementInArrayUsingRecursion](src/main/java/com/yacoders/FindAnElementInArrayUsingRecursion.java)           | Find an element in an array using recursion                              | Space: O(1) and Time: O(n)                                                                             |
 | [FindMaxElementInArray](src/main/java/com/yacoders/FindMaxElementInArray.java)           | Find the maximum element in an array                      | Space: O(1) and Time: O(n)                                                                             |
+| [FindMaxElementInArrayUsingRecursion](src/main/java/com/yacoders/FindMaxElementInArrayUsingRecursion.java)           | Find the maximum element in an array using recursion                      | Space: O(1) and Time: O(n)                                                                             |
+
