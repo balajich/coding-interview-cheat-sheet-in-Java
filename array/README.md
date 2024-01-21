@@ -1,5 +1,6 @@
 # Arrays
-Arrays hold values of the same type at contiguous memory locations. In an array, we're usually concerned about two things - the position/index of an element and the element itself.
+- Contains examples about create,initialize, access iterate elements in the array.
+- Arrays hold values of the same type at contiguous memory locations. In an array, we're usually concerned about two things - the position/index of an element and the element itself.
 # Examples
 | File                                                         | Description                                               |
 |--------------------------------------------------------------|-----------------------------------------------------------|

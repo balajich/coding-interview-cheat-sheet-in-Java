@@ -4,9 +4,10 @@ It will help you to understand the core concepts behind algorithms and data stru
 
 The list of data structures and algorithms covered in this repository will be updated from time to time.
 
-| Topic  | Priority |
-|--------|----------|
-| Arrays | High     |
+| Topic            | Priority | Description                                              |
+|------------------|----------|----------------------------------------------------------|
+| [Arrays](/array) | High     | Contains examples about create,initialize, access iterate elements in the array. |
+
 
 
 # References
