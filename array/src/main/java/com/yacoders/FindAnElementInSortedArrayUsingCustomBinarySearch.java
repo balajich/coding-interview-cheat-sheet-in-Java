@@ -32,4 +32,5 @@ public class FindAnElementInSortedArrayUsingCustomBinarySearch {
         return index; //return index of key or element to find
     }
 
+
 }
