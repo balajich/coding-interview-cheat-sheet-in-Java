@@ -7,7 +7,7 @@ The list of data structures and algorithms covered in this repository will be up
 | Topic            | Priority | Description                                                                      |
 |------------------|----------|----------------------------------------------------------------------------------|
 | [Arrays](/array) | High     | Contains examples about create,initialize, access iterate elements in the array. |
- | [String](/string) | High     | Contains examples about strings,common operations etc                            | 
+| [String](/string) | High     | Contains examples about strings,common operations etc                            | 
 
 
 
